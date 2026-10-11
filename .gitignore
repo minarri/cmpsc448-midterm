@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+
+# Generated API data and failure logs may contain submitted prompt text.
+data/raw_responses.csv
+data/collection_failures.csv
+data/new_responses.csv

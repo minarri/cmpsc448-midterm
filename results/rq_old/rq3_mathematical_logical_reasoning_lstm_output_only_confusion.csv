@@ -1,0 +1,4 @@
+actual_label,predicted_GPT,predicted_Claude,predicted_Gemini
+GPT,14,0,6
+Claude,4,3,13
+Gemini,6,3,11

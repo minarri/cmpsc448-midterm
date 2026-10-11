@@ -1,0 +1,4 @@
+actual_label,predicted_GPT,predicted_Claude,predicted_Gemini
+GPT,176,23,21
+Claude,80,87,53
+Gemini,32,65,123

@@ -1,0 +1,3 @@
+held_out_category,architecture,input_type,best_epoch,validation_loss,validation_accuracy,held_out_test_accuracy,test_f1_macro,test_recall_gpt,test_recall_claude,test_recall_gemini
+Text transformation,CNN,output_only,13,0.146705,0.950758,0.572727,0.564817,0.663636,0.681818,0.372727
+Text transformation,LSTM,output_only,4,0.776500,0.636364,0.472727,0.468369,0.631818,0.386364,0.400000

@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "API: Test all providers",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/test_apis.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Data: Collect responses",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/collect_data.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Data: Validate responses",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/validate_data.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

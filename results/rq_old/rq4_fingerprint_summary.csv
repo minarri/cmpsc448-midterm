@@ -1,0 +1,667 @@
+row_type,scope,category,model,first_model,second_model,feature,statistic,value,n
+descriptive_statistic,overall,All,GPT,,,word_count,mean,126.96,100
+descriptive_statistic,overall,All,GPT,,,word_count,median,95.0,100
+descriptive_statistic,overall,All,GPT,,,word_count,sample_standard_deviation,107.798439,100
+descriptive_statistic,overall,All,GPT,,,token_count,mean,183.79,100
+descriptive_statistic,overall,All,GPT,,,token_count,median,140.0,100
+descriptive_statistic,overall,All,GPT,,,token_count,sample_standard_deviation,144.990233,100
+descriptive_statistic,overall,All,GPT,,,unique_word_count,mean,76.95,100
+descriptive_statistic,overall,All,GPT,,,unique_word_count,median,62.5,100
+descriptive_statistic,overall,All,GPT,,,unique_word_count,sample_standard_deviation,56.36934,100
+descriptive_statistic,overall,All,GPT,,,type_token_ratio,mean,0.667351,100
+descriptive_statistic,overall,All,GPT,,,type_token_ratio,median,0.650142,100
+descriptive_statistic,overall,All,GPT,,,type_token_ratio,sample_standard_deviation,0.13968,100
+descriptive_statistic,overall,All,GPT,,,sentence_count,mean,10.63,100
+descriptive_statistic,overall,All,GPT,,,sentence_count,median,7.0,100
+descriptive_statistic,overall,All,GPT,,,sentence_count,sample_standard_deviation,11.211155,100
+descriptive_statistic,overall,All,GPT,,,avg_sentence_length,mean,14.297731,100
+descriptive_statistic,overall,All,GPT,,,avg_sentence_length,median,13.188235,100
+descriptive_statistic,overall,All,GPT,,,avg_sentence_length,sample_standard_deviation,6.346428,100
+descriptive_statistic,overall,All,GPT,,,markdown_heading_count,mean,0.21,100
+descriptive_statistic,overall,All,GPT,,,markdown_heading_count,median,0.0,100
+descriptive_statistic,overall,All,GPT,,,markdown_heading_count,sample_standard_deviation,0.71485,100
+descriptive_statistic,overall,All,GPT,,,markdown_heading_count,responses_with_feature_percent,10.0,100
+descriptive_statistic,overall,All,GPT,,,bullet_list_count,mean,0.73,100
+descriptive_statistic,overall,All,GPT,,,bullet_list_count,median,0.0,100
+descriptive_statistic,overall,All,GPT,,,bullet_list_count,sample_standard_deviation,2.049168,100
+descriptive_statistic,overall,All,GPT,,,bullet_list_count,responses_with_feature_percent,18.0,100
+descriptive_statistic,overall,All,GPT,,,bold_marker_count,mean,1.53,100
+descriptive_statistic,overall,All,GPT,,,bold_marker_count,median,1.0,100
+descriptive_statistic,overall,All,GPT,,,bold_marker_count,sample_standard_deviation,2.380285,100
+descriptive_statistic,overall,All,GPT,,,bold_marker_count,responses_with_feature_percent,51.0,100
+descriptive_statistic,overall,All,GPT,,,code_block_count,mean,0.29,100
+descriptive_statistic,overall,All,GPT,,,code_block_count,median,0.0,100
+descriptive_statistic,overall,All,GPT,,,code_block_count,sample_standard_deviation,0.686007,100
+descriptive_statistic,overall,All,GPT,,,code_block_count,responses_with_feature_percent,19.0,100
+descriptive_statistic,overall,All,Claude,,,word_count,mean,275.68,100
+descriptive_statistic,overall,All,Claude,,,word_count,median,246.5,100
+descriptive_statistic,overall,All,Claude,,,word_count,sample_standard_deviation,208.200315,100
+descriptive_statistic,overall,All,Claude,,,token_count,mean,392.02,100
+descriptive_statistic,overall,All,Claude,,,token_count,median,330.0,100
+descriptive_statistic,overall,All,Claude,,,token_count,sample_standard_deviation,304.844454,100
+descriptive_statistic,overall,All,Claude,,,unique_word_count,mean,137.79,100
+descriptive_statistic,overall,All,Claude,,,unique_word_count,median,122.0,100
+descriptive_statistic,overall,All,Claude,,,unique_word_count,sample_standard_deviation,93.388544,100
+descriptive_statistic,overall,All,Claude,,,type_token_ratio,mean,0.581841,100
+descriptive_statistic,overall,All,Claude,,,type_token_ratio,median,0.534671,100
+descriptive_statistic,overall,All,Claude,,,type_token_ratio,sample_standard_deviation,0.182571,100
+descriptive_statistic,overall,All,Claude,,,sentence_count,mean,19.84,100
+descriptive_statistic,overall,All,Claude,,,sentence_count,median,17.5,100
+descriptive_statistic,overall,All,Claude,,,sentence_count,sample_standard_deviation,15.088105,100
+descriptive_statistic,overall,All,Claude,,,avg_sentence_length,mean,14.271991,100
+descriptive_statistic,overall,All,Claude,,,avg_sentence_length,median,14.094159,100
+descriptive_statistic,overall,All,Claude,,,avg_sentence_length,sample_standard_deviation,5.000278,100
+descriptive_statistic,overall,All,Claude,,,markdown_heading_count,mean,0.63,100
+descriptive_statistic,overall,All,Claude,,,markdown_heading_count,median,0.0,100
+descriptive_statistic,overall,All,Claude,,,markdown_heading_count,sample_standard_deviation,1.738774,100
+descriptive_statistic,overall,All,Claude,,,markdown_heading_count,responses_with_feature_percent,16.0,100
+descriptive_statistic,overall,All,Claude,,,bullet_list_count,mean,1.69,100
+descriptive_statistic,overall,All,Claude,,,bullet_list_count,median,0.0,100
+descriptive_statistic,overall,All,Claude,,,bullet_list_count,sample_standard_deviation,2.657921,100
+descriptive_statistic,overall,All,Claude,,,bullet_list_count,responses_with_feature_percent,35.0,100
+descriptive_statistic,overall,All,Claude,,,bold_marker_count,mean,3.93,100
+descriptive_statistic,overall,All,Claude,,,bold_marker_count,median,3.0,100
+descriptive_statistic,overall,All,Claude,,,bold_marker_count,sample_standard_deviation,4.690965,100
+descriptive_statistic,overall,All,Claude,,,bold_marker_count,responses_with_feature_percent,68.0,100
+descriptive_statistic,overall,All,Claude,,,code_block_count,mean,0.41,100
+descriptive_statistic,overall,All,Claude,,,code_block_count,median,0.0,100
+descriptive_statistic,overall,All,Claude,,,code_block_count,sample_standard_deviation,1.16424,100
+descriptive_statistic,overall,All,Claude,,,code_block_count,responses_with_feature_percent,18.0,100
+descriptive_statistic,overall,All,Gemini,,,word_count,mean,341.63,100
+descriptive_statistic,overall,All,Gemini,,,word_count,median,318.0,100
+descriptive_statistic,overall,All,Gemini,,,word_count,sample_standard_deviation,230.616287,100
+descriptive_statistic,overall,All,Gemini,,,token_count,mean,520.38,100
+descriptive_statistic,overall,All,Gemini,,,token_count,median,512.5,100
+descriptive_statistic,overall,All,Gemini,,,token_count,sample_standard_deviation,345.171185,100
+descriptive_statistic,overall,All,Gemini,,,unique_word_count,mean,162.63,100
+descriptive_statistic,overall,All,Gemini,,,unique_word_count,median,141.5,100
+descriptive_statistic,overall,All,Gemini,,,unique_word_count,sample_standard_deviation,109.941826,100
+descriptive_statistic,overall,All,Gemini,,,type_token_ratio,mean,0.540732,100
+descriptive_statistic,overall,All,Gemini,,,type_token_ratio,median,0.499488,100
+descriptive_statistic,overall,All,Gemini,,,type_token_ratio,sample_standard_deviation,0.18254,100
+descriptive_statistic,overall,All,Gemini,,,sentence_count,mean,23.53,100
+descriptive_statistic,overall,All,Gemini,,,sentence_count,median,22.5,100
+descriptive_statistic,overall,All,Gemini,,,sentence_count,sample_standard_deviation,16.320932,100
+descriptive_statistic,overall,All,Gemini,,,avg_sentence_length,mean,15.553287,100
+descriptive_statistic,overall,All,Gemini,,,avg_sentence_length,median,14.909524,100
+descriptive_statistic,overall,All,Gemini,,,avg_sentence_length,sample_standard_deviation,5.504288,100
+descriptive_statistic,overall,All,Gemini,,,markdown_heading_count,mean,2.14,100
+descriptive_statistic,overall,All,Gemini,,,markdown_heading_count,median,2.0,100
+descriptive_statistic,overall,All,Gemini,,,markdown_heading_count,sample_standard_deviation,2.291927,100
+descriptive_statistic,overall,All,Gemini,,,markdown_heading_count,responses_with_feature_percent,60.0,100
+descriptive_statistic,overall,All,Gemini,,,bullet_list_count,mean,3.29,100
+descriptive_statistic,overall,All,Gemini,,,bullet_list_count,median,2.0,100
+descriptive_statistic,overall,All,Gemini,,,bullet_list_count,sample_standard_deviation,4.043438,100
+descriptive_statistic,overall,All,Gemini,,,bullet_list_count,responses_with_feature_percent,52.0,100
+descriptive_statistic,overall,All,Gemini,,,bold_marker_count,mean,7.38,100
+descriptive_statistic,overall,All,Gemini,,,bold_marker_count,median,6.0,100
+descriptive_statistic,overall,All,Gemini,,,bold_marker_count,sample_standard_deviation,7.442412,100
+descriptive_statistic,overall,All,Gemini,,,bold_marker_count,responses_with_feature_percent,75.0,100
+descriptive_statistic,overall,All,Gemini,,,code_block_count,mean,0.29,100
+descriptive_statistic,overall,All,Gemini,,,code_block_count,median,0.0,100
+descriptive_statistic,overall,All,Gemini,,,code_block_count,sample_standard_deviation,0.671121,100
+descriptive_statistic,overall,All,Gemini,,,code_block_count,responses_with_feature_percent,19.0,100
+matched_prompt_comparison,overall,All,,GPT,Claude,word_count_difference,mean_paired_difference,-148.72,100
+matched_prompt_comparison,overall,All,,GPT,Claude,word_count_difference,median_paired_difference,-138.0,100
+matched_prompt_comparison,overall,All,,GPT,Claude,word_count_difference,first_model_longer_percent,12.0,100
+matched_prompt_comparison,overall,All,,GPT,Gemini,word_count_difference,mean_paired_difference,-214.67,100
+matched_prompt_comparison,overall,All,,GPT,Gemini,word_count_difference,median_paired_difference,-219.0,100
+matched_prompt_comparison,overall,All,,GPT,Gemini,word_count_difference,first_model_longer_percent,6.0,100
+matched_prompt_comparison,overall,All,,Claude,Gemini,word_count_difference,mean_paired_difference,-65.95,100
+matched_prompt_comparison,overall,All,,Claude,Gemini,word_count_difference,median_paired_difference,-59.5,100
+matched_prompt_comparison,overall,All,,Claude,Gemini,word_count_difference,first_model_longer_percent,21.0,100
+descriptive_statistic,category,General knowledge,GPT,,,word_count,mean,159.45,20
+descriptive_statistic,category,General knowledge,GPT,,,word_count,median,134.5,20
+descriptive_statistic,category,General knowledge,GPT,,,word_count,sample_standard_deviation,93.665404,20
+descriptive_statistic,category,General knowledge,GPT,,,token_count,mean,204.9,20
+descriptive_statistic,category,General knowledge,GPT,,,token_count,median,165.5,20
+descriptive_statistic,category,General knowledge,GPT,,,token_count,sample_standard_deviation,129.627361,20
+descriptive_statistic,category,General knowledge,GPT,,,unique_word_count,mean,102.65,20
+descriptive_statistic,category,General knowledge,GPT,,,unique_word_count,median,87.0,20
+descriptive_statistic,category,General knowledge,GPT,,,unique_word_count,sample_standard_deviation,53.586403,20
+descriptive_statistic,category,General knowledge,GPT,,,type_token_ratio,mean,0.672044,20
+descriptive_statistic,category,General knowledge,GPT,,,type_token_ratio,median,0.655044,20
+descriptive_statistic,category,General knowledge,GPT,,,type_token_ratio,sample_standard_deviation,0.080909,20
+descriptive_statistic,category,General knowledge,GPT,,,sentence_count,mean,10.0,20
+descriptive_statistic,category,General knowledge,GPT,,,sentence_count,median,9.0,20
+descriptive_statistic,category,General knowledge,GPT,,,sentence_count,sample_standard_deviation,6.043701,20
+descriptive_statistic,category,General knowledge,GPT,,,avg_sentence_length,mean,16.611998,20
+descriptive_statistic,category,General knowledge,GPT,,,avg_sentence_length,median,17.627451,20
+descriptive_statistic,category,General knowledge,GPT,,,avg_sentence_length,sample_standard_deviation,3.160419,20
+descriptive_statistic,category,General knowledge,GPT,,,markdown_heading_count,mean,0.15,20
+descriptive_statistic,category,General knowledge,GPT,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,General knowledge,GPT,,,markdown_heading_count,sample_standard_deviation,0.67082,20
+descriptive_statistic,category,General knowledge,GPT,,,markdown_heading_count,responses_with_feature_percent,5.0,20
+descriptive_statistic,category,General knowledge,GPT,,,bullet_list_count,mean,1.6,20
+descriptive_statistic,category,General knowledge,GPT,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,General knowledge,GPT,,,bullet_list_count,sample_standard_deviation,3.015748,20
+descriptive_statistic,category,General knowledge,GPT,,,bullet_list_count,responses_with_feature_percent,40.0,20
+descriptive_statistic,category,General knowledge,GPT,,,bold_marker_count,mean,3.7,20
+descriptive_statistic,category,General knowledge,GPT,,,bold_marker_count,median,2.0,20
+descriptive_statistic,category,General knowledge,GPT,,,bold_marker_count,sample_standard_deviation,3.757099,20
+descriptive_statistic,category,General knowledge,GPT,,,bold_marker_count,responses_with_feature_percent,85.0,20
+descriptive_statistic,category,General knowledge,GPT,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,General knowledge,GPT,,,code_block_count,median,0.0,20
+descriptive_statistic,category,General knowledge,GPT,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,General knowledge,GPT,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,word_count,mean,392.5,20
+descriptive_statistic,category,General knowledge,Claude,,,word_count,median,415.5,20
+descriptive_statistic,category,General knowledge,Claude,,,word_count,sample_standard_deviation,147.009309,20
+descriptive_statistic,category,General knowledge,Claude,,,token_count,mean,484.45,20
+descriptive_statistic,category,General knowledge,Claude,,,token_count,median,497.5,20
+descriptive_statistic,category,General knowledge,Claude,,,token_count,sample_standard_deviation,185.709302,20
+descriptive_statistic,category,General knowledge,Claude,,,unique_word_count,mean,217.75,20
+descriptive_statistic,category,General knowledge,Claude,,,unique_word_count,median,207.0,20
+descriptive_statistic,category,General knowledge,Claude,,,unique_word_count,sample_standard_deviation,69.994643,20
+descriptive_statistic,category,General knowledge,Claude,,,type_token_ratio,mean,0.573391,20
+descriptive_statistic,category,General knowledge,Claude,,,type_token_ratio,median,0.557649,20
+descriptive_statistic,category,General knowledge,Claude,,,type_token_ratio,sample_standard_deviation,0.077292,20
+descriptive_statistic,category,General knowledge,Claude,,,sentence_count,mean,23.0,20
+descriptive_statistic,category,General knowledge,Claude,,,sentence_count,median,22.5,20
+descriptive_statistic,category,General knowledge,Claude,,,sentence_count,sample_standard_deviation,8.485281,20
+descriptive_statistic,category,General knowledge,Claude,,,avg_sentence_length,mean,17.32426,20
+descriptive_statistic,category,General knowledge,Claude,,,avg_sentence_length,median,17.875,20
+descriptive_statistic,category,General knowledge,Claude,,,avg_sentence_length,sample_standard_deviation,2.824288,20
+descriptive_statistic,category,General knowledge,Claude,,,markdown_heading_count,mean,0.2,20
+descriptive_statistic,category,General knowledge,Claude,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,markdown_heading_count,sample_standard_deviation,0.615587,20
+descriptive_statistic,category,General knowledge,Claude,,,markdown_heading_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,General knowledge,Claude,,,bullet_list_count,mean,1.55,20
+descriptive_statistic,category,General knowledge,Claude,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,bullet_list_count,sample_standard_deviation,2.32775,20
+descriptive_statistic,category,General knowledge,Claude,,,bullet_list_count,responses_with_feature_percent,35.0,20
+descriptive_statistic,category,General knowledge,Claude,,,bold_marker_count,mean,5.0,20
+descriptive_statistic,category,General knowledge,Claude,,,bold_marker_count,median,5.0,20
+descriptive_statistic,category,General knowledge,Claude,,,bold_marker_count,sample_standard_deviation,3.524351,20
+descriptive_statistic,category,General knowledge,Claude,,,bold_marker_count,responses_with_feature_percent,85.0,20
+descriptive_statistic,category,General knowledge,Claude,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,code_block_count,median,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,General knowledge,Claude,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,word_count,mean,558.85,20
+descriptive_statistic,category,General knowledge,Gemini,,,word_count,median,519.5,20
+descriptive_statistic,category,General knowledge,Gemini,,,word_count,sample_standard_deviation,191.525256,20
+descriptive_statistic,category,General knowledge,Gemini,,,token_count,mean,779.05,20
+descriptive_statistic,category,General knowledge,Gemini,,,token_count,median,696.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,token_count,sample_standard_deviation,289.477474,20
+descriptive_statistic,category,General knowledge,Gemini,,,unique_word_count,mean,273.35,20
+descriptive_statistic,category,General knowledge,Gemini,,,unique_word_count,median,254.5,20
+descriptive_statistic,category,General knowledge,Gemini,,,unique_word_count,sample_standard_deviation,88.897502,20
+descriptive_statistic,category,General knowledge,Gemini,,,type_token_ratio,mean,0.494403,20
+descriptive_statistic,category,General knowledge,Gemini,,,type_token_ratio,median,0.491747,20
+descriptive_statistic,category,General knowledge,Gemini,,,type_token_ratio,sample_standard_deviation,0.051474,20
+descriptive_statistic,category,General knowledge,Gemini,,,sentence_count,mean,34.25,20
+descriptive_statistic,category,General knowledge,Gemini,,,sentence_count,median,32.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,sentence_count,sample_standard_deviation,12.506314,20
+descriptive_statistic,category,General knowledge,Gemini,,,avg_sentence_length,mean,16.545231,20
+descriptive_statistic,category,General knowledge,Gemini,,,avg_sentence_length,median,16.419152,20
+descriptive_statistic,category,General knowledge,Gemini,,,avg_sentence_length,sample_standard_deviation,2.042529,20
+descriptive_statistic,category,General knowledge,Gemini,,,markdown_heading_count,mean,4.1,20
+descriptive_statistic,category,General knowledge,Gemini,,,markdown_heading_count,median,3.5,20
+descriptive_statistic,category,General knowledge,Gemini,,,markdown_heading_count,sample_standard_deviation,1.97084,20
+descriptive_statistic,category,General knowledge,Gemini,,,markdown_heading_count,responses_with_feature_percent,100.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,bullet_list_count,mean,5.5,20
+descriptive_statistic,category,General knowledge,Gemini,,,bullet_list_count,median,6.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,bullet_list_count,sample_standard_deviation,3.41051,20
+descriptive_statistic,category,General knowledge,Gemini,,,bullet_list_count,responses_with_feature_percent,85.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,bold_marker_count,mean,15.15,20
+descriptive_statistic,category,General knowledge,Gemini,,,bold_marker_count,median,13.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,bold_marker_count,sample_standard_deviation,7.935762,20
+descriptive_statistic,category,General knowledge,Gemini,,,bold_marker_count,responses_with_feature_percent,100.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,code_block_count,median,0.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,General knowledge,Gemini,,,code_block_count,responses_with_feature_percent,0.0,20
+matched_prompt_comparison,category,General knowledge,,GPT,Claude,word_count_difference,mean_paired_difference,-233.05,20
+matched_prompt_comparison,category,General knowledge,,GPT,Claude,word_count_difference,median_paired_difference,-260.0,20
+matched_prompt_comparison,category,General knowledge,,GPT,Claude,word_count_difference,first_model_longer_percent,5.0,20
+matched_prompt_comparison,category,General knowledge,,GPT,Gemini,word_count_difference,mean_paired_difference,-399.4,20
+matched_prompt_comparison,category,General knowledge,,GPT,Gemini,word_count_difference,median_paired_difference,-370.5,20
+matched_prompt_comparison,category,General knowledge,,GPT,Gemini,word_count_difference,first_model_longer_percent,0.0,20
+matched_prompt_comparison,category,General knowledge,,Claude,Gemini,word_count_difference,mean_paired_difference,-166.35,20
+matched_prompt_comparison,category,General knowledge,,Claude,Gemini,word_count_difference,median_paired_difference,-153.0,20
+matched_prompt_comparison,category,General knowledge,,Claude,Gemini,word_count_difference,first_model_longer_percent,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,word_count,mean,236.6,20
+descriptive_statistic,category,Creative writing,GPT,,,word_count,median,211.0,20
+descriptive_statistic,category,Creative writing,GPT,,,word_count,sample_standard_deviation,130.10336,20
+descriptive_statistic,category,Creative writing,GPT,,,token_count,mean,301.85,20
+descriptive_statistic,category,Creative writing,GPT,,,token_count,median,264.5,20
+descriptive_statistic,category,Creative writing,GPT,,,token_count,sample_standard_deviation,170.591317,20
+descriptive_statistic,category,Creative writing,GPT,,,unique_word_count,mean,139.0,20
+descriptive_statistic,category,Creative writing,GPT,,,unique_word_count,median,133.0,20
+descriptive_statistic,category,Creative writing,GPT,,,unique_word_count,sample_standard_deviation,53.102681,20
+descriptive_statistic,category,Creative writing,GPT,,,type_token_ratio,mean,0.648839,20
+descriptive_statistic,category,Creative writing,GPT,,,type_token_ratio,median,0.664851,20
+descriptive_statistic,category,Creative writing,GPT,,,type_token_ratio,sample_standard_deviation,0.126037,20
+descriptive_statistic,category,Creative writing,GPT,,,sentence_count,mean,24.85,20
+descriptive_statistic,category,Creative writing,GPT,,,sentence_count,median,23.0,20
+descriptive_statistic,category,Creative writing,GPT,,,sentence_count,sample_standard_deviation,16.284558,20
+descriptive_statistic,category,Creative writing,GPT,,,avg_sentence_length,mean,10.706313,20
+descriptive_statistic,category,Creative writing,GPT,,,avg_sentence_length,median,10.372222,20
+descriptive_statistic,category,Creative writing,GPT,,,avg_sentence_length,sample_standard_deviation,3.545004,20
+descriptive_statistic,category,Creative writing,GPT,,,markdown_heading_count,mean,0.4,20
+descriptive_statistic,category,Creative writing,GPT,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,markdown_heading_count,sample_standard_deviation,0.940325,20
+descriptive_statistic,category,Creative writing,GPT,,,markdown_heading_count,responses_with_feature_percent,25.0,20
+descriptive_statistic,category,Creative writing,GPT,,,bullet_list_count,mean,0.6,20
+descriptive_statistic,category,Creative writing,GPT,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,bullet_list_count,sample_standard_deviation,2.683282,20
+descriptive_statistic,category,Creative writing,GPT,,,bullet_list_count,responses_with_feature_percent,5.0,20
+descriptive_statistic,category,Creative writing,GPT,,,bold_marker_count,mean,0.9,20
+descriptive_statistic,category,Creative writing,GPT,,,bold_marker_count,median,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,bold_marker_count,sample_standard_deviation,1.713722,20
+descriptive_statistic,category,Creative writing,GPT,,,bold_marker_count,responses_with_feature_percent,35.0,20
+descriptive_statistic,category,Creative writing,GPT,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Creative writing,GPT,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,word_count,mean,368.2,20
+descriptive_statistic,category,Creative writing,Claude,,,word_count,median,279.0,20
+descriptive_statistic,category,Creative writing,Claude,,,word_count,sample_standard_deviation,247.880404,20
+descriptive_statistic,category,Creative writing,Claude,,,token_count,mean,457.0,20
+descriptive_statistic,category,Creative writing,Claude,,,token_count,median,338.5,20
+descriptive_statistic,category,Creative writing,Claude,,,token_count,sample_standard_deviation,320.327464,20
+descriptive_statistic,category,Creative writing,Claude,,,unique_word_count,mean,185.1,20
+descriptive_statistic,category,Creative writing,Claude,,,unique_word_count,median,171.5,20
+descriptive_statistic,category,Creative writing,Claude,,,unique_word_count,sample_standard_deviation,86.980276,20
+descriptive_statistic,category,Creative writing,Claude,,,type_token_ratio,mean,0.584941,20
+descriptive_statistic,category,Creative writing,Claude,,,type_token_ratio,median,0.560664,20
+descriptive_statistic,category,Creative writing,Claude,,,type_token_ratio,sample_standard_deviation,0.140669,20
+descriptive_statistic,category,Creative writing,Claude,,,sentence_count,mean,28.6,20
+descriptive_statistic,category,Creative writing,Claude,,,sentence_count,median,24.5,20
+descriptive_statistic,category,Creative writing,Claude,,,sentence_count,sample_standard_deviation,19.626513,20
+descriptive_statistic,category,Creative writing,Claude,,,avg_sentence_length,mean,14.33519,20
+descriptive_statistic,category,Creative writing,Claude,,,avg_sentence_length,median,13.704037,20
+descriptive_statistic,category,Creative writing,Claude,,,avg_sentence_length,sample_standard_deviation,7.258656,20
+descriptive_statistic,category,Creative writing,Claude,,,markdown_heading_count,mean,0.75,20
+descriptive_statistic,category,Creative writing,Claude,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,markdown_heading_count,sample_standard_deviation,2.314144,20
+descriptive_statistic,category,Creative writing,Claude,,,markdown_heading_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,Creative writing,Claude,,,bullet_list_count,mean,0.85,20
+descriptive_statistic,category,Creative writing,Claude,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,bullet_list_count,sample_standard_deviation,2.109502,20
+descriptive_statistic,category,Creative writing,Claude,,,bullet_list_count,responses_with_feature_percent,15.0,20
+descriptive_statistic,category,Creative writing,Claude,,,bold_marker_count,mean,2.9,20
+descriptive_statistic,category,Creative writing,Claude,,,bold_marker_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,bold_marker_count,sample_standard_deviation,7.758866,20
+descriptive_statistic,category,Creative writing,Claude,,,bold_marker_count,responses_with_feature_percent,40.0,20
+descriptive_statistic,category,Creative writing,Claude,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Creative writing,Claude,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,word_count,mean,385.95,20
+descriptive_statistic,category,Creative writing,Gemini,,,word_count,median,309.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,word_count,sample_standard_deviation,260.776871,20
+descriptive_statistic,category,Creative writing,Gemini,,,token_count,mean,485.55,20
+descriptive_statistic,category,Creative writing,Gemini,,,token_count,median,388.5,20
+descriptive_statistic,category,Creative writing,Gemini,,,token_count,sample_standard_deviation,336.428686,20
+descriptive_statistic,category,Creative writing,Gemini,,,unique_word_count,mean,222.5,20
+descriptive_statistic,category,Creative writing,Gemini,,,unique_word_count,median,191.5,20
+descriptive_statistic,category,Creative writing,Gemini,,,unique_word_count,sample_standard_deviation,121.288043,20
+descriptive_statistic,category,Creative writing,Gemini,,,type_token_ratio,mean,0.640483,20
+descriptive_statistic,category,Creative writing,Gemini,,,type_token_ratio,median,0.628053,20
+descriptive_statistic,category,Creative writing,Gemini,,,type_token_ratio,sample_standard_deviation,0.106452,20
+descriptive_statistic,category,Creative writing,Gemini,,,sentence_count,mean,29.6,20
+descriptive_statistic,category,Creative writing,Gemini,,,sentence_count,median,28.5,20
+descriptive_statistic,category,Creative writing,Gemini,,,sentence_count,sample_standard_deviation,18.863499,20
+descriptive_statistic,category,Creative writing,Gemini,,,avg_sentence_length,mean,14.802053,20
+descriptive_statistic,category,Creative writing,Gemini,,,avg_sentence_length,median,12.924405,20
+descriptive_statistic,category,Creative writing,Gemini,,,avg_sentence_length,sample_standard_deviation,8.314581,20
+descriptive_statistic,category,Creative writing,Gemini,,,markdown_heading_count,mean,0.55,20
+descriptive_statistic,category,Creative writing,Gemini,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,markdown_heading_count,sample_standard_deviation,1.761429,20
+descriptive_statistic,category,Creative writing,Gemini,,,markdown_heading_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,bullet_list_count,mean,0.55,20
+descriptive_statistic,category,Creative writing,Gemini,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,bullet_list_count,sample_standard_deviation,2.459675,20
+descriptive_statistic,category,Creative writing,Gemini,,,bullet_list_count,responses_with_feature_percent,5.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,bold_marker_count,mean,1.8,20
+descriptive_statistic,category,Creative writing,Gemini,,,bold_marker_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,bold_marker_count,sample_standard_deviation,4.7195,20
+descriptive_statistic,category,Creative writing,Gemini,,,bold_marker_count,responses_with_feature_percent,35.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Creative writing,Gemini,,,code_block_count,responses_with_feature_percent,0.0,20
+matched_prompt_comparison,category,Creative writing,,GPT,Claude,word_count_difference,mean_paired_difference,-131.6,20
+matched_prompt_comparison,category,Creative writing,,GPT,Claude,word_count_difference,median_paired_difference,-65.5,20
+matched_prompt_comparison,category,Creative writing,,GPT,Claude,word_count_difference,first_model_longer_percent,30.0,20
+matched_prompt_comparison,category,Creative writing,,GPT,Gemini,word_count_difference,mean_paired_difference,-149.35,20
+matched_prompt_comparison,category,Creative writing,,GPT,Gemini,word_count_difference,median_paired_difference,-49.5,20
+matched_prompt_comparison,category,Creative writing,,GPT,Gemini,word_count_difference,first_model_longer_percent,25.0,20
+matched_prompt_comparison,category,Creative writing,,Claude,Gemini,word_count_difference,mean_paired_difference,-17.75,20
+matched_prompt_comparison,category,Creative writing,,Claude,Gemini,word_count_difference,median_paired_difference,-7.0,20
+matched_prompt_comparison,category,Creative writing,,Claude,Gemini,word_count_difference,first_model_longer_percent,45.0,20
+descriptive_statistic,category,Programming,GPT,,,word_count,mean,144.4,20
+descriptive_statistic,category,Programming,GPT,,,word_count,median,130.0,20
+descriptive_statistic,category,Programming,GPT,,,word_count,sample_standard_deviation,79.535097,20
+descriptive_statistic,category,Programming,GPT,,,token_count,mean,249.8,20
+descriptive_statistic,category,Programming,GPT,,,token_count,median,243.0,20
+descriptive_statistic,category,Programming,GPT,,,token_count,sample_standard_deviation,128.241384,20
+descriptive_statistic,category,Programming,GPT,,,unique_word_count,mean,80.0,20
+descriptive_statistic,category,Programming,GPT,,,unique_word_count,median,71.0,20
+descriptive_statistic,category,Programming,GPT,,,unique_word_count,sample_standard_deviation,38.391337,20
+descriptive_statistic,category,Programming,GPT,,,type_token_ratio,mean,0.580829,20
+descriptive_statistic,category,Programming,GPT,,,type_token_ratio,median,0.559733,20
+descriptive_statistic,category,Programming,GPT,,,type_token_ratio,sample_standard_deviation,0.096667,20
+descriptive_statistic,category,Programming,GPT,,,sentence_count,mean,10.55,20
+descriptive_statistic,category,Programming,GPT,,,sentence_count,median,9.5,20
+descriptive_statistic,category,Programming,GPT,,,sentence_count,sample_standard_deviation,5.84425,20
+descriptive_statistic,category,Programming,GPT,,,avg_sentence_length,mean,15.325779,20
+descriptive_statistic,category,Programming,GPT,,,avg_sentence_length,median,13.45098,20
+descriptive_statistic,category,Programming,GPT,,,avg_sentence_length,sample_standard_deviation,7.399474,20
+descriptive_statistic,category,Programming,GPT,,,markdown_heading_count,mean,0.25,20
+descriptive_statistic,category,Programming,GPT,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Programming,GPT,,,markdown_heading_count,sample_standard_deviation,0.786398,20
+descriptive_statistic,category,Programming,GPT,,,markdown_heading_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,Programming,GPT,,,bullet_list_count,mean,0.25,20
+descriptive_statistic,category,Programming,GPT,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Programming,GPT,,,bullet_list_count,sample_standard_deviation,0.786398,20
+descriptive_statistic,category,Programming,GPT,,,bullet_list_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,Programming,GPT,,,bold_marker_count,mean,1.45,20
+descriptive_statistic,category,Programming,GPT,,,bold_marker_count,median,1.0,20
+descriptive_statistic,category,Programming,GPT,,,bold_marker_count,sample_standard_deviation,1.700619,20
+descriptive_statistic,category,Programming,GPT,,,bold_marker_count,responses_with_feature_percent,55.0,20
+descriptive_statistic,category,Programming,GPT,,,code_block_count,mean,1.45,20
+descriptive_statistic,category,Programming,GPT,,,code_block_count,median,1.0,20
+descriptive_statistic,category,Programming,GPT,,,code_block_count,sample_standard_deviation,0.825578,20
+descriptive_statistic,category,Programming,GPT,,,code_block_count,responses_with_feature_percent,95.0,20
+descriptive_statistic,category,Programming,Claude,,,word_count,mean,382.5,20
+descriptive_statistic,category,Programming,Claude,,,word_count,median,351.5,20
+descriptive_statistic,category,Programming,Claude,,,word_count,sample_standard_deviation,191.354865,20
+descriptive_statistic,category,Programming,Claude,,,token_count,mean,655.95,20
+descriptive_statistic,category,Programming,Claude,,,token_count,median,575.5,20
+descriptive_statistic,category,Programming,Claude,,,token_count,sample_standard_deviation,346.662656,20
+descriptive_statistic,category,Programming,Claude,,,unique_word_count,mean,172.45,20
+descriptive_statistic,category,Programming,Claude,,,unique_word_count,median,174.5,20
+descriptive_statistic,category,Programming,Claude,,,unique_word_count,sample_standard_deviation,80.910265,20
+descriptive_statistic,category,Programming,Claude,,,type_token_ratio,mean,0.493289,20
+descriptive_statistic,category,Programming,Claude,,,type_token_ratio,median,0.490359,20
+descriptive_statistic,category,Programming,Claude,,,type_token_ratio,sample_standard_deviation,0.145381,20
+descriptive_statistic,category,Programming,Claude,,,sentence_count,mean,27.6,20
+descriptive_statistic,category,Programming,Claude,,,sentence_count,median,24.0,20
+descriptive_statistic,category,Programming,Claude,,,sentence_count,sample_standard_deviation,14.932832,20
+descriptive_statistic,category,Programming,Claude,,,avg_sentence_length,mean,13.776703,20
+descriptive_statistic,category,Programming,Claude,,,avg_sentence_length,median,14.321429,20
+descriptive_statistic,category,Programming,Claude,,,avg_sentence_length,sample_standard_deviation,3.58135,20
+descriptive_statistic,category,Programming,Claude,,,markdown_heading_count,mean,1.9,20
+descriptive_statistic,category,Programming,Claude,,,markdown_heading_count,median,1.5,20
+descriptive_statistic,category,Programming,Claude,,,markdown_heading_count,sample_standard_deviation,2.403944,20
+descriptive_statistic,category,Programming,Claude,,,markdown_heading_count,responses_with_feature_percent,55.0,20
+descriptive_statistic,category,Programming,Claude,,,bullet_list_count,mean,1.6,20
+descriptive_statistic,category,Programming,Claude,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Programming,Claude,,,bullet_list_count,sample_standard_deviation,2.062191,20
+descriptive_statistic,category,Programming,Claude,,,bullet_list_count,responses_with_feature_percent,45.0,20
+descriptive_statistic,category,Programming,Claude,,,bold_marker_count,mean,5.05,20
+descriptive_statistic,category,Programming,Claude,,,bold_marker_count,median,5.0,20
+descriptive_statistic,category,Programming,Claude,,,bold_marker_count,sample_standard_deviation,3.316228,20
+descriptive_statistic,category,Programming,Claude,,,bold_marker_count,responses_with_feature_percent,95.0,20
+descriptive_statistic,category,Programming,Claude,,,code_block_count,mean,2.05,20
+descriptive_statistic,category,Programming,Claude,,,code_block_count,median,1.5,20
+descriptive_statistic,category,Programming,Claude,,,code_block_count,sample_standard_deviation,1.877148,20
+descriptive_statistic,category,Programming,Claude,,,code_block_count,responses_with_feature_percent,90.0,20
+descriptive_statistic,category,Programming,Gemini,,,word_count,mean,405.85,20
+descriptive_statistic,category,Programming,Gemini,,,word_count,median,407.0,20
+descriptive_statistic,category,Programming,Gemini,,,word_count,sample_standard_deviation,141.241963,20
+descriptive_statistic,category,Programming,Gemini,,,token_count,mean,714.6,20
+descriptive_statistic,category,Programming,Gemini,,,token_count,median,698.5,20
+descriptive_statistic,category,Programming,Gemini,,,token_count,sample_standard_deviation,273.880381,20
+descriptive_statistic,category,Programming,Gemini,,,unique_word_count,mean,175.3,20
+descriptive_statistic,category,Programming,Gemini,,,unique_word_count,median,165.5,20
+descriptive_statistic,category,Programming,Gemini,,,unique_word_count,sample_standard_deviation,57.484185,20
+descriptive_statistic,category,Programming,Gemini,,,type_token_ratio,mean,0.446573,20
+descriptive_statistic,category,Programming,Gemini,,,type_token_ratio,median,0.441461,20
+descriptive_statistic,category,Programming,Gemini,,,type_token_ratio,sample_standard_deviation,0.086219,20
+descriptive_statistic,category,Programming,Gemini,,,sentence_count,mean,28.85,20
+descriptive_statistic,category,Programming,Gemini,,,sentence_count,median,25.5,20
+descriptive_statistic,category,Programming,Gemini,,,sentence_count,sample_standard_deviation,13.405714,20
+descriptive_statistic,category,Programming,Gemini,,,avg_sentence_length,mean,15.012147,20
+descriptive_statistic,category,Programming,Gemini,,,avg_sentence_length,median,14.833482,20
+descriptive_statistic,category,Programming,Gemini,,,avg_sentence_length,sample_standard_deviation,4.199554,20
+descriptive_statistic,category,Programming,Gemini,,,markdown_heading_count,mean,3.35,20
+descriptive_statistic,category,Programming,Gemini,,,markdown_heading_count,median,3.0,20
+descriptive_statistic,category,Programming,Gemini,,,markdown_heading_count,sample_standard_deviation,1.980829,20
+descriptive_statistic,category,Programming,Gemini,,,markdown_heading_count,responses_with_feature_percent,100.0,20
+descriptive_statistic,category,Programming,Gemini,,,bullet_list_count,mean,3.45,20
+descriptive_statistic,category,Programming,Gemini,,,bullet_list_count,median,2.5,20
+descriptive_statistic,category,Programming,Gemini,,,bullet_list_count,sample_standard_deviation,4.477723,20
+descriptive_statistic,category,Programming,Gemini,,,bullet_list_count,responses_with_feature_percent,55.0,20
+descriptive_statistic,category,Programming,Gemini,,,bold_marker_count,mean,8.8,20
+descriptive_statistic,category,Programming,Gemini,,,bold_marker_count,median,6.5,20
+descriptive_statistic,category,Programming,Gemini,,,bold_marker_count,sample_standard_deviation,6.748099,20
+descriptive_statistic,category,Programming,Gemini,,,bold_marker_count,responses_with_feature_percent,90.0,20
+descriptive_statistic,category,Programming,Gemini,,,code_block_count,mean,1.45,20
+descriptive_statistic,category,Programming,Gemini,,,code_block_count,median,1.0,20
+descriptive_statistic,category,Programming,Gemini,,,code_block_count,sample_standard_deviation,0.759155,20
+descriptive_statistic,category,Programming,Gemini,,,code_block_count,responses_with_feature_percent,95.0,20
+matched_prompt_comparison,category,Programming,,GPT,Claude,word_count_difference,mean_paired_difference,-238.1,20
+matched_prompt_comparison,category,Programming,,GPT,Claude,word_count_difference,median_paired_difference,-217.5,20
+matched_prompt_comparison,category,Programming,,GPT,Claude,word_count_difference,first_model_longer_percent,5.0,20
+matched_prompt_comparison,category,Programming,,GPT,Gemini,word_count_difference,mean_paired_difference,-261.45,20
+matched_prompt_comparison,category,Programming,,GPT,Gemini,word_count_difference,median_paired_difference,-240.0,20
+matched_prompt_comparison,category,Programming,,GPT,Gemini,word_count_difference,first_model_longer_percent,0.0,20
+matched_prompt_comparison,category,Programming,,Claude,Gemini,word_count_difference,mean_paired_difference,-23.35,20
+matched_prompt_comparison,category,Programming,,Claude,Gemini,word_count_difference,median_paired_difference,-65.0,20
+matched_prompt_comparison,category,Programming,,Claude,Gemini,word_count_difference,first_model_longer_percent,25.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,word_count,mean,59.75,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,word_count,median,52.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,word_count,sample_standard_deviation,22.496491,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,token_count,mean,117.4,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,token_count,median,105.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,token_count,sample_standard_deviation,46.636782,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,unique_word_count,mean,35.2,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,unique_word_count,median,34.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,unique_word_count,sample_standard_deviation,13.543691,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,type_token_ratio,mean,0.593728,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,type_token_ratio,median,0.618412,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,type_token_ratio,sample_standard_deviation,0.087585,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,sentence_count,mean,4.85,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,sentence_count,median,4.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,sentence_count,sample_standard_deviation,2.109502,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,avg_sentence_length,mean,13.767897,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,avg_sentence_length,median,12.25,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,avg_sentence_length,sample_standard_deviation,5.657648,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,markdown_heading_count,mean,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,markdown_heading_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,markdown_heading_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bullet_list_count,mean,0.4,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bullet_list_count,sample_standard_deviation,0.994723,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bullet_list_count,responses_with_feature_percent,15.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bold_marker_count,mean,1.25,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bold_marker_count,median,1.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bold_marker_count,sample_standard_deviation,1.409554,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,bold_marker_count,responses_with_feature_percent,60.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,GPT,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,word_count,mean,184.25,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,word_count,median,158.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,word_count,sample_standard_deviation,85.266687,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,token_count,mean,296.15,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,token_count,median,281.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,token_count,sample_standard_deviation,125.249341,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,unique_word_count,mean,74.45,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,unique_word_count,median,60.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,unique_word_count,sample_standard_deviation,33.803573,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,type_token_ratio,mean,0.417075,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,type_token_ratio,median,0.420871,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,type_token_ratio,sample_standard_deviation,0.081178,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,sentence_count,mean,15.8,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,sentence_count,median,14.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,sentence_count,sample_standard_deviation,7.550532,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,avg_sentence_length,mean,12.131303,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,avg_sentence_length,median,11.512987,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,avg_sentence_length,sample_standard_deviation,3.492595,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,markdown_heading_count,mean,0.3,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,markdown_heading_count,sample_standard_deviation,1.341641,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,markdown_heading_count,responses_with_feature_percent,5.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bullet_list_count,mean,3.55,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bullet_list_count,median,3.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bullet_list_count,sample_standard_deviation,3.394655,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bullet_list_count,responses_with_feature_percent,65.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bold_marker_count,mean,5.65,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bold_marker_count,median,6.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bold_marker_count,sample_standard_deviation,2.758241,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,bold_marker_count,responses_with_feature_percent,100.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Claude,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,word_count,mean,291.1,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,word_count,median,275.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,word_count,sample_standard_deviation,112.063845,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,token_count,mean,527.55,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,token_count,median,501.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,token_count,sample_standard_deviation,206.910984,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,unique_word_count,mean,94.6,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,unique_word_count,median,88.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,unique_word_count,sample_standard_deviation,31.658374,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,type_token_ratio,mean,0.341555,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,type_token_ratio,median,0.351021,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,type_token_ratio,sample_standard_deviation,0.08943,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,sentence_count,mean,20.2,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,sentence_count,median,17.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,sentence_count,sample_standard_deviation,10.496115,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,avg_sentence_length,mean,15.990812,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,avg_sentence_length,median,14.224731,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,avg_sentence_length,sample_standard_deviation,6.159359,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,markdown_heading_count,mean,2.6,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,markdown_heading_count,median,3.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,markdown_heading_count,sample_standard_deviation,1.846761,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,markdown_heading_count,responses_with_feature_percent,85.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bullet_list_count,mean,5.65,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bullet_list_count,median,4.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bullet_list_count,sample_standard_deviation,4.545385,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bullet_list_count,responses_with_feature_percent,80.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bold_marker_count,mean,9.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bold_marker_count,median,8.5,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bold_marker_count,sample_standard_deviation,4.400957,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,bold_marker_count,responses_with_feature_percent,100.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Mathematical/logical reasoning,Gemini,,,code_block_count,responses_with_feature_percent,0.0,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Claude,word_count_difference,mean_paired_difference,-124.5,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Claude,word_count_difference,median_paired_difference,-106.0,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Claude,word_count_difference,first_model_longer_percent,0.0,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Gemini,word_count_difference,mean_paired_difference,-231.35,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Gemini,word_count_difference,median_paired_difference,-219.0,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,GPT,Gemini,word_count_difference,first_model_longer_percent,0.0,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,Claude,Gemini,word_count_difference,mean_paired_difference,-106.85,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,Claude,Gemini,word_count_difference,median_paired_difference,-130.5,20
+matched_prompt_comparison,category,Mathematical/logical reasoning,,Claude,Gemini,word_count_difference,first_model_longer_percent,5.0,20
+descriptive_statistic,category,Text transformation,GPT,,,word_count,mean,34.6,20
+descriptive_statistic,category,Text transformation,GPT,,,word_count,median,30.5,20
+descriptive_statistic,category,Text transformation,GPT,,,word_count,sample_standard_deviation,14.061519,20
+descriptive_statistic,category,Text transformation,GPT,,,token_count,mean,45.0,20
+descriptive_statistic,category,Text transformation,GPT,,,token_count,median,46.0,20
+descriptive_statistic,category,Text transformation,GPT,,,token_count,sample_standard_deviation,19.169603,20
+descriptive_statistic,category,Text transformation,GPT,,,unique_word_count,mean,27.9,20
+descriptive_statistic,category,Text transformation,GPT,,,unique_word_count,median,24.5,20
+descriptive_statistic,category,Text transformation,GPT,,,unique_word_count,sample_standard_deviation,9.08382,20
+descriptive_statistic,category,Text transformation,GPT,,,type_token_ratio,mean,0.841318,20
+descriptive_statistic,category,Text transformation,GPT,,,type_token_ratio,median,0.8625,20
+descriptive_statistic,category,Text transformation,GPT,,,type_token_ratio,sample_standard_deviation,0.12801,20
+descriptive_statistic,category,Text transformation,GPT,,,sentence_count,mean,2.9,20
+descriptive_statistic,category,Text transformation,GPT,,,sentence_count,median,2.5,20
+descriptive_statistic,category,Text transformation,GPT,,,sentence_count,sample_standard_deviation,1.803505,20
+descriptive_statistic,category,Text transformation,GPT,,,avg_sentence_length,mean,15.076667,20
+descriptive_statistic,category,Text transformation,GPT,,,avg_sentence_length,median,11.5,20
+descriptive_statistic,category,Text transformation,GPT,,,avg_sentence_length,sample_standard_deviation,8.904331,20
+descriptive_statistic,category,Text transformation,GPT,,,markdown_heading_count,mean,0.25,20
+descriptive_statistic,category,Text transformation,GPT,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,markdown_heading_count,sample_standard_deviation,0.786398,20
+descriptive_statistic,category,Text transformation,GPT,,,markdown_heading_count,responses_with_feature_percent,10.0,20
+descriptive_statistic,category,Text transformation,GPT,,,bullet_list_count,mean,0.8,20
+descriptive_statistic,category,Text transformation,GPT,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,bullet_list_count,sample_standard_deviation,1.67332,20
+descriptive_statistic,category,Text transformation,GPT,,,bullet_list_count,responses_with_feature_percent,20.0,20
+descriptive_statistic,category,Text transformation,GPT,,,bold_marker_count,mean,0.35,20
+descriptive_statistic,category,Text transformation,GPT,,,bold_marker_count,median,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,bold_marker_count,sample_standard_deviation,0.812728,20
+descriptive_statistic,category,Text transformation,GPT,,,bold_marker_count,responses_with_feature_percent,20.0,20
+descriptive_statistic,category,Text transformation,GPT,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Text transformation,GPT,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,word_count,mean,50.95,20
+descriptive_statistic,category,Text transformation,Claude,,,word_count,median,43.0,20
+descriptive_statistic,category,Text transformation,Claude,,,word_count,sample_standard_deviation,39.639793,20
+descriptive_statistic,category,Text transformation,Claude,,,token_count,mean,66.55,20
+descriptive_statistic,category,Text transformation,Claude,,,token_count,median,53.0,20
+descriptive_statistic,category,Text transformation,Claude,,,token_count,sample_standard_deviation,57.543096,20
+descriptive_statistic,category,Text transformation,Claude,,,unique_word_count,mean,39.2,20
+descriptive_statistic,category,Text transformation,Claude,,,unique_word_count,median,35.5,20
+descriptive_statistic,category,Text transformation,Claude,,,unique_word_count,sample_standard_deviation,21.99665,20
+descriptive_statistic,category,Text transformation,Claude,,,type_token_ratio,mean,0.840511,20
+descriptive_statistic,category,Text transformation,Claude,,,type_token_ratio,median,0.826505,20
+descriptive_statistic,category,Text transformation,Claude,,,type_token_ratio,sample_standard_deviation,0.113327,20
+descriptive_statistic,category,Text transformation,Claude,,,sentence_count,mean,4.2,20
+descriptive_statistic,category,Text transformation,Claude,,,sentence_count,median,3.0,20
+descriptive_statistic,category,Text transformation,Claude,,,sentence_count,sample_standard_deviation,4.431941,20
+descriptive_statistic,category,Text transformation,Claude,,,avg_sentence_length,mean,13.7925,20
+descriptive_statistic,category,Text transformation,Claude,,,avg_sentence_length,median,12.25,20
+descriptive_statistic,category,Text transformation,Claude,,,avg_sentence_length,sample_standard_deviation,5.427137,20
+descriptive_statistic,category,Text transformation,Claude,,,markdown_heading_count,mean,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,markdown_heading_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,markdown_heading_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,bullet_list_count,mean,0.9,20
+descriptive_statistic,category,Text transformation,Claude,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,bullet_list_count,sample_standard_deviation,2.468752,20
+descriptive_statistic,category,Text transformation,Claude,,,bullet_list_count,responses_with_feature_percent,15.0,20
+descriptive_statistic,category,Text transformation,Claude,,,bold_marker_count,mean,1.05,20
+descriptive_statistic,category,Text transformation,Claude,,,bold_marker_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,bold_marker_count,sample_standard_deviation,2.818641,20
+descriptive_statistic,category,Text transformation,Claude,,,bold_marker_count,responses_with_feature_percent,20.0,20
+descriptive_statistic,category,Text transformation,Claude,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Text transformation,Claude,,,code_block_count,responses_with_feature_percent,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,word_count,mean,66.4,20
+descriptive_statistic,category,Text transformation,Gemini,,,word_count,median,54.5,20
+descriptive_statistic,category,Text transformation,Gemini,,,word_count,sample_standard_deviation,37.668079,20
+descriptive_statistic,category,Text transformation,Gemini,,,token_count,mean,95.15,20
+descriptive_statistic,category,Text transformation,Gemini,,,token_count,median,85.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,token_count,sample_standard_deviation,64.710103,20
+descriptive_statistic,category,Text transformation,Gemini,,,unique_word_count,mean,47.4,20
+descriptive_statistic,category,Text transformation,Gemini,,,unique_word_count,median,44.5,20
+descriptive_statistic,category,Text transformation,Gemini,,,unique_word_count,sample_standard_deviation,19.126724,20
+descriptive_statistic,category,Text transformation,Gemini,,,type_token_ratio,mean,0.780648,20
+descriptive_statistic,category,Text transformation,Gemini,,,type_token_ratio,median,0.798272,20
+descriptive_statistic,category,Text transformation,Gemini,,,type_token_ratio,sample_standard_deviation,0.140683,20
+descriptive_statistic,category,Text transformation,Gemini,,,sentence_count,mean,4.75,20
+descriptive_statistic,category,Text transformation,Gemini,,,sentence_count,median,4.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,sentence_count,sample_standard_deviation,3.654485,20
+descriptive_statistic,category,Text transformation,Gemini,,,avg_sentence_length,mean,15.41619,20
+descriptive_statistic,category,Text transformation,Gemini,,,avg_sentence_length,median,15.833333,20
+descriptive_statistic,category,Text transformation,Gemini,,,avg_sentence_length,sample_standard_deviation,5.179459,20
+descriptive_statistic,category,Text transformation,Gemini,,,markdown_heading_count,mean,0.1,20
+descriptive_statistic,category,Text transformation,Gemini,,,markdown_heading_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,markdown_heading_count,sample_standard_deviation,0.447214,20
+descriptive_statistic,category,Text transformation,Gemini,,,markdown_heading_count,responses_with_feature_percent,5.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,bullet_list_count,mean,1.3,20
+descriptive_statistic,category,Text transformation,Gemini,,,bullet_list_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,bullet_list_count,sample_standard_deviation,1.92217,20
+descriptive_statistic,category,Text transformation,Gemini,,,bullet_list_count,responses_with_feature_percent,35.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,bold_marker_count,mean,2.15,20
+descriptive_statistic,category,Text transformation,Gemini,,,bold_marker_count,median,0.5,20
+descriptive_statistic,category,Text transformation,Gemini,,,bold_marker_count,sample_standard_deviation,2.906888,20
+descriptive_statistic,category,Text transformation,Gemini,,,bold_marker_count,responses_with_feature_percent,50.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,code_block_count,mean,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,code_block_count,median,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,code_block_count,sample_standard_deviation,0.0,20
+descriptive_statistic,category,Text transformation,Gemini,,,code_block_count,responses_with_feature_percent,0.0,20
+matched_prompt_comparison,category,Text transformation,,GPT,Claude,word_count_difference,mean_paired_difference,-16.35,20
+matched_prompt_comparison,category,Text transformation,,GPT,Claude,word_count_difference,median_paired_difference,-5.0,20
+matched_prompt_comparison,category,Text transformation,,GPT,Claude,word_count_difference,first_model_longer_percent,20.0,20
+matched_prompt_comparison,category,Text transformation,,GPT,Gemini,word_count_difference,mean_paired_difference,-31.8,20
+matched_prompt_comparison,category,Text transformation,,GPT,Gemini,word_count_difference,median_paired_difference,-14.5,20
+matched_prompt_comparison,category,Text transformation,,GPT,Gemini,word_count_difference,first_model_longer_percent,5.0,20
+matched_prompt_comparison,category,Text transformation,,Claude,Gemini,word_count_difference,mean_paired_difference,-15.45,20
+matched_prompt_comparison,category,Text transformation,,Claude,Gemini,word_count_difference,median_paired_difference,-8.5,20
+matched_prompt_comparison,category,Text transformation,,Claude,Gemini,word_count_difference,first_model_longer_percent,30.0,20
